@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luto Sibotoboto
-- 👀 I’m interested in Web Development and Data Analytics
-- 🌱 I’m currently learning JavaScript and Python
+- 👀 I’m interested in  Data Analytics
+- 🌱 I’m currently learning Data Science and Machine Learning using Python
 - 💞️ I’m looking to collaborate on a Data Analytics project
 - 📫 How to reach me sibotobotolcl@gmail.com
 
