@@ -5,7 +5,7 @@
 - You can view some of my favourite data science projects in the links below:
 
   - [Space-X Landing Success Prediction using Machine Learning](https://github.com/withouttheh/spaceX-landing-success-prediction)
-  - [2021/2022 Fantasy Premier League Exploratory Data Analysis](https://github.com/withouttheh/fantasy-premier-league-analysis)
+  - [2022/2023 Fantasy Premier League Exploratory Data Analysis](https://github.com/withouttheh/fantasy-premier-league-analysis-22-23)
 
 - If you are reading this and you are looking for a collaborator, then you can reach me at <sibotobotolcl@gmail.com>
 <!---
