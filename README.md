@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luto Sibotoboto. I’m a tech enthusiast who loves playing around with data. I believe that everyday is a good day to learn and build and that is what drives me. 
 
-- I am currently working on [FPLytics](https://github.com/FPLytics): a Fantasy Premier League analytics website/tool that will provide statistical analysis, insights and predictions using real-world data.
+- My portfolio website with my web development and data analytics projects is here: lutosibotoboto.netlify.app.
 
 - You can view some of my favourite data science projects in the links below:
 
