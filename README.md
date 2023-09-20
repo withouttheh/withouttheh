@@ -28,16 +28,6 @@ Here are some of the technologies and tools I'm proficient in:
 
 I'm currently working on a data-driven FPL Player Comparison tool built using Python. Check it out [here](https://fpl-player-comparison.streamlit.app/)
 
-### 🌐 Connect with Me
-
-- 📫 Email: sibotobotolcl@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/luto-sibotoboto/
-- 🌐 Personal Website: https://lutosibotoboto.netlify.app
-
-### 🌟 My GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=withouttheh&show_icons=true&count_private=true)](https://github.com/withouttheh)
-
 ### 📂 My Projects
 
 Here are some of the  projects I've worked on:
@@ -47,15 +37,15 @@ Here are some of the  projects I've worked on:
 
 Feel free to explore them, contribute, or reach out if you have any questions or suggestions!
 
-### 📫 How to Reach Me
+### 🌐 Connect with Me
 
-If you'd like to collaborate on a project, discuss a new opportunity, or just say hi, feel free to reach out through [email](mailto:sibotobotolcl@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luto-sibotoboto/). I'm always open to new connections and interesting conversations!
+- 📫 Email: sibotobotolcl@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/luto-sibotoboto/
+- 🌐 Personal Website: https://lutosibotoboto.netlify.app
 
-### 🙏 Thanks for Visiting!
+### 🌟 My GitHub Stats
 
-Thank you for taking the time to explore my GitHub profile. Feel free to explore my projects and reach out if you have any questions or ideas to discuss. Let's connect and create amazing things together! 😄
-
-![Visitor Count](https://profile-counter.glitch.me/withouttheh/count.svg)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=withouttheh&show_icons=true&count_private=true)](https://github.com/withouttheh)
 
 <!---
 withouttheh/withouttheh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
