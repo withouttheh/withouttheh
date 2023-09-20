@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luto Sibotoboto. I’m a tech enthusiast who loves playing around with data. I believe that everyday is a good day to learn and build and that is what drives me. 
+- 👋 Hi, I’m Luto Sibotoboto. I’m a tech enthusiast who loves playing around with data and building software
 
 - My portfolio website with my web development and data analytics projects is here: [My Portfolio](https://lutosibotoboto.netlify.app)
 
