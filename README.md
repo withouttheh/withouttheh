@@ -6,16 +6,6 @@
 
 I'm a passionate **Software Developer** from **East London, South Africa** with a keen interest in **Web Development & Data Science**. Welcome to my GitHub profile! 👨‍💻
 
-### 🎓 Education & Certifications
-  
-- **National Diploma of Civil Engineering** - Cape Peninsula University of Technology
-- **Machine Learning Specialization** - Stanford University
-- **IBM Data Science Professional Certificate** - IBM Technology
-- **Python For Everybody Specialization** - University of Michigan
-- **Google Data Analytics Professional Certificate** - Google
-- **Javascript Basics** - University of California, Davis
-- **Javascript Data Structures & Algorithms** - freeCodeCamp.org
-
 ### 💻 Tech Stack
 
 Here are some of the technologies and tools I'm proficient in:
