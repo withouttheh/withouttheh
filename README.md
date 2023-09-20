@@ -1,33 +1,52 @@
-# [Your Name]
+# Luto Sibotoboto
 
 ## 👋 Hello, world!
 
-I'm a passionate [Software Developer] from [East London, South Africa] with a keen interest in [Web Development & Data Science]. Welcome to my GitHub profile! 👨‍💻
+I'm a passionate **Software Developer** from **East London, South Africa** with a keen interest in **Web Development & Data Science**. Welcome to my GitHub profile! 👨‍💻
 
 ### 🚀 About Me
+- 🔭 [Current Projects]: I'm currently working on a data-driven FPL Player Comparison tool built using Python. Check it out [here](https://github.com/withouttheh/fpl-player-comparison).
+- 🌱 [Learning]: I'm always eager to learn and stay updated with the latest tech trends. Currently, I'm deepening my knowledge in backend development and improving my skills in Python.
+- 💼 [Work Experience]: I currently work as a freelancer offering my expertise in web development. 
+- 🎓 [Education]:
 
-- 🌟 [Brief Introduction]: Share a short, captivating introduction about yourself.
-- 🔭 [Current Projects]: Highlight the exciting projects you are currently working on.
-- 🌱 [Learning]: Mention what technologies or skills you are currently learning.
-- 💼 [Work Experience]: Share your professional experience or career highlights.
-- 🎓 [Education]: Mention your educational background and any relevant degrees or certifications.
+- **National Diploma of Civil Engineering** - Cape Peninsula University of Technology
+  - Duration: Feb '15 - Jun '20
+
+### 📜 Certifications
+
+- **Machine Learning Specialization** - Stanford University
+  - Date: Aug '22
+
+- **IBM Data Science Professional Certificate** - IBM Technology
+  - Date: Jul '22
+
+- **Python For Everybody Specialization** - University of Michigan
+  - Date: Jun '22
+
+- **Google Data Analytics Professional Certificate** - Google
+  - Date: May '22
+
+- **Javascript Basics** - University of California, Davis
+  - Date: May '22
+
+- **Javascript Data Structures & Algorithms** - freeCodeCamp.org
+  - Date: Aug '21
+
 
 ### 💻 Tech Stack
 
 Here are some of the technologies and tools I'm proficient in:
 
-- 🚀 [Technology 1]
-- 🌐 [Technology 2]
-- 🛠️ [Technology 3]
-- ⚙️ [Technology 4]
+- 🚀 Frontend: HTML, CSS, Javascript, React
+- 🌐 Backend: Python, Django
+- 🛠️ SQL
 
 ### 🌐 Connect with Me
 
-- 📫 [Email]: [Your Email Address]
-- 💼 [LinkedIn]: [Your LinkedIn Profile]
-- 🌐 [Personal Website]: [Your Website URL]
-- 🐦 [Twitter]: [Your Twitter Handle]
-- 📷 [Instagram]: [Your Instagram Handle]
+- 📫 [Email]: sibotobotolcl@gmail.com
+- 💼 [LinkedIn]: https://www.linkedin.com/in/luto-sibotoboto/
+- 🌐 [Personal Website]: lutosibotoboto.netlify.app
 
 ### 📚 Blog Posts
 
@@ -39,28 +58,21 @@ I occasionally write on topics I'm passionate about. Check out some of my latest
 
 ### 🌟 My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true)](https://github.com/YourUsername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=withouttheh&show_icons=true&count_private=true)](https://github.com/withouttheh)
 
 ### 📂 My Projects
 
 Here are some of the open-source projects I've worked on:
 
-1. 🚀 [Project 1](https://github.com/YourUsername/Project1): Brief description of Project 1.
-2. 🌐 [Project 2](https://github.com/YourUsername/Project2): Brief description of Project 2.
-3. ⚙️ [Project 3](https://github.com/YourUsername/Project3): Brief description of Project 3.
+1. 🚀 [Project 1](https://github.com/withouttheh/Project1): Brief description of Project 1.
+2. 🌐 [Project 2](https://github.com/withouttheh/Project2): Brief description of Project 2.
+3. ⚙️ [Project 3](https://github.com/withouttheh/Project3): Brief description of Project 3.
 
 Feel free to explore them, contribute, or reach out if you have any questions or suggestions!
 
-### 🤝 Contributions
-
-I love contributing to open-source projects and collaborating with the community. Here are some of my notable contributions:
-
-- 🌟 [Contribution 1](https://github.com/OpenSourceOrg/Project1)
-- ⭐ [Contribution 2](https://github.com/OpenSourceOrg/Project2)
-
 ### 📫 How to Reach Me
 
-If you'd like to collaborate on a project, discuss a new opportunity, or just say hi, feel free to reach out through [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/). I'm always open to new connections and interesting conversations!
+If you'd like to collaborate on a project, discuss a new opportunity, or just say hi, feel free to reach out through [email](mailto:sibotobotolcl@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luto-sibotoboto/). I'm always open to new connections and interesting conversations!
 
 ### 🙏 Thanks for Visiting!
 
