@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Data Analyst & Software Developer** from **East London, South Africa** with a keen interest in **Web Development & Data Science**. Welcome to my GitHub profile! 👨‍💻
+I'm a passionate **Data Analyst & Software Developer** from **East London, South Africa**. Welcome to my GitHub profile! 👨‍💻
 
 ### 💻 Tech Stack
 
