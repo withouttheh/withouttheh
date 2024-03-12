@@ -15,9 +15,13 @@ Here are some of the technologies and tools I'm proficient in:
 - 🛠️ SQL
 - 📈 Visualization: Tableau
 
-### 🔭 Current Project
+### 🔭 Current Projects
 
-I'm currently working on a data-driven FPL Player Comparison tool built using Python. Check it out [here](https://fpl-player-comparison.streamlit.app/)
+I'm currently working on:
+ - a data-driven FPL Player Comparison tool built using Python. Check it out [here](https://fpl-player-comparison.streamlit.app/)
+ - a Customer and Product ANalytics project for Customer Segmentation, Customer Targeting and Product Positioning [here](https://github.com/withouttheh/customer-analytics/)
+Public
+)
 
 ### 📂 My Projects
 
