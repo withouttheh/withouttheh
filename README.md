@@ -13,6 +13,7 @@ Here are some of the technologies and tools I'm proficient in:
 - 🚀 Frontend: HTML, CSS, Javascript, React
 - 🌐 Backend: Python, Django
 - 🛠️ SQL
+- 📈 Visualization: Tableau
 
 ### 🔭 Current Project
 
