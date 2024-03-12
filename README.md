@@ -19,9 +19,8 @@ Here are some of the technologies and tools I'm proficient in:
 
 I'm currently working on:
  - a data-driven FPL Player Comparison tool built using Python. Check it out [here](https://fpl-player-comparison.streamlit.app/)
- - a Customer and Product ANalytics project for Customer Segmentation, Customer Targeting and Product Positioning [here](https://github.com/withouttheh/customer-analytics/)
-Public
-)
+ - a Customer and Product ANalytics project for Customer Segmentation, Customer Targeting and Product Positioning. Check it out [here](https://github.com/withouttheh/customer-analytics/)
+
 
 ### 📂 My Projects
 
